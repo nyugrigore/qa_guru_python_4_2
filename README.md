@@ -2,3 +2,5 @@
 Homework: lection 2
 
 Hello, world!
+
+- добавил тесты
